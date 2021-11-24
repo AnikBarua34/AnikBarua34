@@ -1,4 +1,4 @@
-### Hi there :heart_eyes: It's Anik Barua Turjoy
+### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's Anik Barua Turjoy
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
 - 🌱 I’m currently learning Web Development (Font-End + Back-Hand)
@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...www.facebook.com/turjoy2
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+-
 
 <!--
 **AnikBarua34/AnikBarua34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
