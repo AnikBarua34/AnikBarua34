@@ -3,6 +3,7 @@
 ![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) 
 ### :fire:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikBarua34&langs_count=8)](https://github.com/AnikBarua34/github-readme-stats)
+### LAST ASSIGNMENTS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnikBarua34&repo=Niche-Website-Ass-12-)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git)
 
 
