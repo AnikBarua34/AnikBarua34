@@ -1,6 +1,7 @@
 ### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy
 
-[[!AnikBarua34 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true)
+
 
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
