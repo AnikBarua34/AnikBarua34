@@ -1,4 +1,4 @@
-### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's Anik Barua Turjoy
+### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
 - 🌱 I’m currently learning Web Development (Font-End + Back-Hand)
