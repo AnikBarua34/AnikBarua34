@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with crazy learners
 - 💬 Ask me about anything
 - 📫 How to reach me: ...www.facebook.com/turjoy2
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![AnikBarua34 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34)](https://github.com/AnikBarua34/github-readme-stats)
+
 
 <!--
 **AnikBarua34/AnikBarua34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
