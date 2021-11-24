@@ -2,6 +2,9 @@
 
 ![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikBarua34&layout=compact)](https://github.com/AnikBarua34/github-readme-stats)
+
+
 
 
 
