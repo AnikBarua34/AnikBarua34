@@ -1,4 +1,4 @@
-### Hi there  👋 It's Anik Barua Turjoy
+### Hi there  :kissing: It's Anik Barua Turjoy
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
 - 🌱 I’m currently learning Web Development (Font-End + Back-Hand)
