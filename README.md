@@ -2,11 +2,7 @@
 
 ![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikBarua34&langs_count=8)](https://github.com/AnikBarua34/github-readme-stats)
-
-
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnikBarua34&repo=Niche-Website-Ass-12-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
