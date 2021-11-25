@@ -13,7 +13,7 @@
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 </p>
 
-### :fire:
+### ⚙️ &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikBarua34&langs_count=8)](https://github.com/AnikBarua34/github-readme-stats)
 
 ### LAST ASSIGNMENTS
