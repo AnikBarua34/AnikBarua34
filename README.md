@@ -1,4 +1,4 @@
-### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy
+### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy [![GitHub followers](https://img.shields.io/github/followers/AnikBarua34.svg?style=social&label=Followers)](https://github.com/AnikBarua34?tab=followers)
 
 ![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
 
