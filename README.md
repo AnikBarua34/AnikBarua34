@@ -1,6 +1,6 @@
 ### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy
 
-![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) 
+![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
 
 ### :fire: Languages and Tools
 <p>
