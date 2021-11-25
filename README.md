@@ -2,7 +2,7 @@
 
 ![Anik Barua Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikBarua34&show_icons=true&theme=cobalt) 
 
-### :fire: Languages and Tools:**
+### :fire: Languages and Tools
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
