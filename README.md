@@ -8,7 +8,7 @@
 ### :atom: Technology Used 
 ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/<Editor>-<Vs_Code>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/<HTML>-<CSS>-<JavaScript>-<React>-<MongoDB>-<Firebase>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/<HTML>-<CSS>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
 
 
 
