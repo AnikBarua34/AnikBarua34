@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnikBarua34&repo=Niche-Website-Ass-12-)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git)
 ### :atom: Technology Used 
 ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/<Editor>-<Vs Code>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Editor>-<Vs-Code>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a)
 
 
 - 🔭 I’m currently student in Proggraming Hero(4th Btach) 
