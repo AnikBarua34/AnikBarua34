@@ -1,5 +1,5 @@
 ### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy [![GitHub followers](https://img.shields.io/github/followers/AnikBarua34.svg?style=social&label=Followers)](https://github.com/AnikBarua34?tab=followers)
-* <img src="./images/logo-icons/facebook.jpg" width="15px;"/> [Facebook](#facebook)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Anik+Barua+Turjoy!;I'm+a+Developer...;I'm+also+a+Learner+Engineer;And+I'm+proud+to+be+a+Bangla+deshi)](https://git.io/typing-svg)
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -41,7 +41,7 @@
 - 🤔 I’m looking for help with crazy learners
 - 💬 Ask me about anything
 - 📫 How to reach me: ...www.facebook.com/turjoy2
--[<img src="./images/logo-icons/facebook.jpg" width="15px;"/>](https://www.facebook.com/turjoy2)
+- [FACEBOOK](https://www.facebook.com/turjoy2)
 
 
 
