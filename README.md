@@ -6,7 +6,7 @@
 ### LAST ASSIGNMENTS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnikBarua34&repo=Niche-Website-Ass-12-)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git)
 ### :atom: Technology Used 
-![](https://img.shields.io/badge/<OS>-<Windows>-<Editor>-<VsCode>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<JavaScript>&logoColor=white&color=2bbc8a) 
 
 
 
