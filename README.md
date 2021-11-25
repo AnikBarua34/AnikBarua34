@@ -40,7 +40,8 @@
 - 🤔 I’m looking for help with crazy learners
 - 💬 Ask me about anything
 - 📫 How to reach me: ...www.facebook.com/turjoy2
-- [Facebook: Share Button](https://www.facebook.com/turjoy2)
+- <img src="./images/logo-icons/facebook.jpg" width="15px;"/> [Facebook](#facebook)
+)[Facebook](https://www.facebook.com/turjoy2)
 
 
 
