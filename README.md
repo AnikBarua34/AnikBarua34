@@ -2,6 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Anik+Barua+Turjoy!;I'm+a+Developer...;I'm+also+a+Learner+Engineer;And+I'm+proud+to+be+a+Bangla+deshi)](https://git.io/typing-svg)
+### Resume [Drive-Link](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F18ubTn4HTh117LQSUFLE5dspaSH8aGIDq%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR25fyNJA9wdEx7Prx6Sy2dtdEp4jwaufTDm3Asfoo9uhbJUJSwPuViHsL8&h=AT3VXARmVBEVJsN2E0_gFVYJwxPy2LnDbPWfmYTEfjuDzBxZ1xAuxPQD86hwgSbGWhVzXzoRMb_wKA2Q2BOGT1nt4He-UCWrd-_7OBjcHaBesSsrBWK-KKPmcNW-atfDSNQD&__tn__=-UK-R&c[0]=AT0jf9cF30H72vSvieBGKztsW-fzOiMGSY5IdKfV055OyJJOFZUtDs_WchNOTUBHyYqtf9zVKrEQADYMN9968yg10IbZi_bzgwTJjkaQERSR9rjctfoV5iXSLLREWa_HQlHeofqb_IAFd1JCWNCcwAw_lU5XiAhEbYDRHvVV7IqDBKXoPFOMEhWJIOWPEJteAdf2fcLGBiuF-egpjw)
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/AnikBarua34?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/AnikBarua34?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
