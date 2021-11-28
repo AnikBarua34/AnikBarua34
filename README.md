@@ -1,4 +1,5 @@
-### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy [![GitHub followers](https://img.shields.io/github/followers/AnikBarua34.svg?style=social&label=Followers)](https://github.com/AnikBarua34?tab=followers)
+### Hey, Whats up !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunglasses: It's Anik Barua Turjoy [![GitHub followers](https://img.shields.io/github/followers/AnikBarua34.svg?style=social&label=Followers)](https://github.com/AnikBarua34?tab=followers) ![](https://komarev.com/ghpvc/?username=AnikBarua34)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Anik+Barua+Turjoy!;I'm+a+Developer...;I'm+also+a+Learner+Engineer;And+I'm+proud+to+be+a+Bangla+deshi)](https://git.io/typing-svg)
